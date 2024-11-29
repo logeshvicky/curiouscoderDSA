@@ -6,8 +6,8 @@ Expected Output:
 2
 Name
 У
-
 answer:
+
 #Taking input from user
 num=int(input())
 name=input()
