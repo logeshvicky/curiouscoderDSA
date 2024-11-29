@@ -6,6 +6,7 @@ Name
 У'''
 
 solution:
+
 #Taking input from user
 num=int(input())
 name=input()
