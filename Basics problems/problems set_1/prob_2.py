@@ -13,5 +13,7 @@ a=int(input("Enter the number:"))
 b=int(input("Enter the number:"))
 c=int(input("Enter the number:"))
 d=a+b+c
-if d==180: print("triangle can be formed")
-else:print("triangle can't be formed")
+if d==180: 
+  print("triangle can be formed")
+else:
+  print("triangle can't be formed")
