@@ -1,5 +1,4 @@
-'''Prob 3:
-Given mark of student, Print the Grade
+'''Given mark of student, Print the Grade
 Grade A if mark is greater than or equal to 90
 Grade B if mark is greater than or equal to 80
 Grade C if mark if greater than or equal to 60
