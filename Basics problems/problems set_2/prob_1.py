@@ -11,4 +11,20 @@ Explanation - 2 is x and 3 is y in the input. So 2 is printed 3 times on the out
 
 solution:
 
+#method_1:
+x=int(input("Enter:"))
+y=int(input("Enter:"))
+#using for loop
+for _ in range(y):
+    print(x)
+  
+#method_2:
+x=int(input("Enter:"))
+y=int(input("Enter:"))
+#using while loop
+count=0 #asign count=0
+while count < y:
+    print(x)
+    count+=1
+    
 
