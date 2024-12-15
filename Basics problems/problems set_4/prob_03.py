@@ -1,0 +1,2 @@
+Kth digit of number :
+
