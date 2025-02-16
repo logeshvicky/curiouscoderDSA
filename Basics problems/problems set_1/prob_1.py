@@ -14,7 +14,7 @@ char=input()
 
 print(num)
 print(name)
-print(char
+print(char)
 
 #This wil show the datatype
 print(type(num))
